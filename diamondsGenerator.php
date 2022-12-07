@@ -2,6 +2,7 @@
 /**
  * Written for PHP 8.1.13
  * 
+ * Solution for technical interview question
  * Builds diamonds based on a provided height
  */
 class diamond {
