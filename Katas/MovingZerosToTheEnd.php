@@ -1,3 +1,6 @@
+<?php
+//https://www.codewars.com/kata/52597aa56021e91c93000cb0/php
+
 function moveZeros(array $items): array
 {
     //lets record the number of zeros in the $items array
@@ -41,3 +44,5 @@ function moveZeros(array $items): array
   
     return $items;
 }
+
+?>
